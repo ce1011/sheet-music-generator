@@ -42,7 +42,7 @@ python main.py
 ```
 
 
-2. The GUI will open in your default web browser. Follow the on-screen instructions to select a music file and start the transcription process.
+2. The GUI will open. Follow the on-screen instructions to select a music file and start the transcription process.
 
 3. The transcription result will be saved as `drums.xml` in the project directory.
 
